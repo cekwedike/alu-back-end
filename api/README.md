@@ -1,0 +1,1 @@
+This README provides an overview of the Application Programming Interface (API) for "alu-back-end". The API allows developers to interact with and integrate APIs  into their applications, services, and websites.
